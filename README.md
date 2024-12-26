@@ -1,4 +1,3 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# Backup of Obsidian default vault
+these are my backed up obsidian vault files
 
-this is a test
